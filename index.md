@@ -6,6 +6,4 @@ feature_text: |
   ## Chin-Fang Lin
 ---
 
-Projects
-
-[Automatic generate Jupyter Notebook](https://github.com/chinfang/auto-jupyter-notebook)
+[###Automatic generate Jupyter Notebook](https://github.com/chinfang/auto-jupyter-notebook)
