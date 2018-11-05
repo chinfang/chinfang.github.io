@@ -5,9 +5,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Chin-Fang Lin
 ---
-**[Analyed local explanation with SHAP explanation model for UCI bank-marketing dataset](https://github.com/chinfang/bank-marketing)**
+**[Analyse local explanation using SHAP explanation model for UCI bank-marketing dataset](https://github.com/chinfang/bank-marketing)**
 
-Analyze useful explanations for understanding the XGBoost model from aggregating the SHAP explanations to the model, group and local levels. 
+This is my project using [SHAP](https://github.com/slundberg/shap) explanation model in practice. SHAP explanation model provide explanation for single instance from the output of any machine learning model. In this project, I analyze useful explanations for understanding the XGBoost model from aggregating the SHAP explanations to the model and group levels with different visualisation techniques. 
 
 **[Automatic generate Jupyter Notebook](https://github.com/chinfang/auto-jupyter-notebook)**
 
