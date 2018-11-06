@@ -11,8 +11,8 @@ This is my project using [SHAP](https://github.com/slundberg/shap) explanation m
 
 **[Automatic generate Jupyter Notebook](https://github.com/chinfang/auto-jupyter-notebook)**
 
-Implemented one command line function to generate Jupyter Notebook the most important features and dataset similarity for 300 OpenML datasets.
+This is my project which can automatically generate Jupyter Notebook for each OpenML dataset with corresponding information: the most important features, the machine learning model performance and dataset similarity with other 300 OpenML datasets.
 
-**[Analyzed topic evolution and corresponding keywords with Dynamic Topic Model](https://github.com/chinfang/webretrieval/blob/master/Component_3/dtm.ipynb)**
+**[Analyzed topic evolution using Dynamic Topic Model in NIPS dataset](https://github.com/chinfang/webretrieval/blob/master/Component_3/dtm.ipynb)**
 
 
