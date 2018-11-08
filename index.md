@@ -17,3 +17,9 @@ the NIPS dataset. The [Dynamic Topic Model (DTM)](https://radimrehurek.com/gensi
 how topics evolve. The difference between this model and general language topic model is,
 articles are grouped by timeframe, and each timeframe’s articles arise from a set of topics
 that have evolved from the last timeframe’s topics.
+
+**[Financial spend analysis](https://github.com/chinfang/financial-spend-analysis)**<br/>
+The goal of this project is to investigate the financial expanses using graph database. We investigate the
+time evolution of expenses and the competitivity between suppliers with visualisation.
+
+
