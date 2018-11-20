@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Chin-Fang Lin'
+description: ''
 permalink: pretty
 logo: "https://github.com/chinfang/chinfang.github.io/raw/master/photo/IMG_9520.JPG"
 
